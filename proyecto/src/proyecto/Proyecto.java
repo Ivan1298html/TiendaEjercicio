@@ -4,17 +4,16 @@
  */
 package proyecto;
 
-/**
- *
- * @author SENA
- */
+
 public class Proyecto {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+        factura obj=new factura();
+        boolean aux=obj.tomarDatos();
+        System.out.println("estado del cliente "+ aux);    
+        
     }
+    
     
 }
