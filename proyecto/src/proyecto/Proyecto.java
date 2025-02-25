@@ -22,9 +22,27 @@ public class Proyecto {
         Compras objCompras=new Compras();
         objCompras.tomarDatos();
       */
- 
+        /*
        IMC objimc=new IMC();
        objimc.tomarDatos();
+       */
+       /*
+       Pelicula objPelicula=new Pelicula();
+       objPelicula.tomarDatos();
+       */
+       /*
+       Campeonato objCampeonato=new Campeonato();
+       objCampeonato.tomarDatos();
+        */
+       
+       /*
+       Restaurante objRestaurante=new Restaurante();
+       objRestaurante.tomarDatos();
+        */
+       
+       
+       Cajero objCajero =new Cajero();
+       objCajero.tomarDatos();
     }
      
      
