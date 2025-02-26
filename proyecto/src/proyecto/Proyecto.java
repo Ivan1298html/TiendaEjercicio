@@ -40,9 +40,34 @@ public class Proyecto {
        objRestaurante.tomarDatos();
         */
        
-       
-       Cajero objCajero =new Cajero();
+       /*       Cajero objCajero =new Cajero();
        objCajero.tomarDatos();
+       */
+       
+       
+       /*
+       Compra objCompra =new Compra();
+       objCompra.tomarDatos();
+*/
+       /*
+       Impresora objImpresora=new Impresora();
+       objImpresora.tomarDatos();
+*/
+       /*
+       Coche objCoche =new Coche();
+       objCoche.tomarDatos();
+       
+       */
+       /*
+       Regresiva objRegresiva =new Regresiva();
+       objRegresiva.tomarDatos();
+       
+         */
+       
+       Adivina objAdivina =new Adivina();
+       objAdivina.tomarDatos();
+       
+       
     }
      
      
