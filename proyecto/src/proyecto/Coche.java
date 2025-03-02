@@ -37,7 +37,7 @@ public class Coche {
             respuesta = scanner.next().toLowerCase();
 
             
-            if (!respuesta.equals("si")) {
+            if (respuesta.equals("si")) {
                 break;
             }
         }

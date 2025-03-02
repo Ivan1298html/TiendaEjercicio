@@ -4,6 +4,8 @@
  */
 package proyecto;
 
+import javax.crypto.KEM;
+
 
 public class Proyecto {
 
@@ -63,12 +65,62 @@ public class Proyecto {
        objRegresiva.tomarDatos();
        
          */
-       
+        /*
        Adivina objAdivina =new Adivina();
        objAdivina.tomarDatos();
+       */
+        
+       /*
+       Libros objLibros =new Libros();
+       objLibros.tomarDatos();
+       */
+          /*
+       Menu objMenu =new Menu();
+       objMenu.tomarDatos();
        
-       
-    }
+       */
+          /*
+          Temperatura objTemperatura=new Temperatura();
+          objTemperatura.tomarDatos();
+       */
+          /*
+           Materias objMaterias=new Materias();
+          objMaterias.tomarDatos();
+*/
+          
+          /*
+          Tareas objTareas=new  Tareas();
+           objTareas.tomarDatos();
+         */
+          /*
+           Ventas objVentas=new  Ventas();
+           objVentas.tomarDatos();
+           */
+/*
+                Vehiculos objVehiculos=new  Vehiculos();
+           objVehiculos.tomarDatos();
+           */
+           
+           /*
+           Operaciones objOperaciones = new   Operaciones();
+           objOperaciones.tomarDatos();
+           */
+           /*
+           Contactos objContactos = new   Contactos();
+           objContactos.tomarDatos();
+*/
+
+/*
+           Calcular objCalcular = new   Calcular();
+           objCalcular.tomarDatos();
+
+*/
+
+
+           VentasFor objVentasFor = new   VentasFor();
+           objVentasFor.tomarDatos();
+
+}
      
      
 }
